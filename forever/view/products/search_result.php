@@ -30,4 +30,7 @@
 			0 produits trouvés
 		<?php endif ?>
 	</div>
+	<?php echo $key['title']; ?>
+	<?php echo $key['title']; ?>
+	<?php echo $key['title']; ?>
 </div>
