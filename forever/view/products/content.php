@@ -27,6 +27,10 @@
 			</div>
 		<?php endif ?>
 		
+		<?php echo "test" ?>
+		<?php echo "tes2" ?>
+		<?php echo "tes3" ?>
+		
 		<?php foreach ($body_content as $key): ?>
 			<?php 
 				$page_link=($key['product_ref']==0)? "/forever/products/display/".$key['name'] : "/forever/products/display/".$parent_cat."/".$key['name'];
