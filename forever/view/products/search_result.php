@@ -7,6 +7,8 @@
 		<div id="search_result_title">
 			Résultat de la recherche :
 		</div>
+		
+		<?php echo "test"; ?>
 	
 		<?php if (isset($body_content)) : ?>
 			<?php foreach ($body_content as $key): ?>
