@@ -9,6 +9,8 @@
 		</div>
 		
 		<?php echo "test"; ?>
+		
+		<?php echo "test"; ?>
 	
 		<?php if (isset($body_content)) : ?>
 			<?php foreach ($body_content as $key): ?>
